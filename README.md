@@ -1,3 +1,4 @@
 # Minesweeper
 This is a Minesweeper in C++
-Fixed Size
+With a fixed Size.
+The Minesweeper was made for a Shool Project.
